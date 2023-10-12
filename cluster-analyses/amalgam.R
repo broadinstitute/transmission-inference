@@ -38,15 +38,9 @@ max_cluster_size <- 200
 isnv_info <- c() # What proportion of transmission links have an iSNV signature?
 isnv_info_nonzero <- c() # What proportion of transmission links with SNV distance > 0 have an iSNV signature?
 cluster_size <- c()
-n_facilities <- c()
-facility_type <- c() # if only one facility; otherwise NA
 has_minor_to_fixed <- c() # does any link with a minor allele -> fixed have >90% posterior probability?
 has_fixed_to_minor <- c() # does any link with a fixed allele -> minor have >90% posterior probability?
 has_split <- c() # does any link with a split bottleneck have >90% posterior probability?
-
-
-# Read in metadata to get info on clusters
-meta <- read.csv("./metadata.txt", sep = "\t")
 
 for (i in 1:length(dirs)) {
   
@@ -73,16 +67,6 @@ for (i in 1:length(dirs)) {
       amalgam <- rbind(amalgam, tab)
       
       names <- unique(tab$To)
-      facilities <- meta$Practice.Name[match(names, meta$Sequence.Name)]
-      types <- meta$Program[match(names, meta$Sequence.Name)]
-      n_facilities[i] <- length(unique(facilities))
-      
-      if(n_facilities[i] == 1){
-        facility_type[i] <- unique(types)
-      }else{
-        facility_type[i] <- NA
-      }
-      
       
       if(any(tab$Relationship == "Minor Allele to Fixation" & tab$Probability > 0.9)){
         has_minor_to_fixed[i] <- T
@@ -106,18 +90,16 @@ for (i in 1:length(dirs)) {
       isnv_info[i] <- NA
       isnv_info_nonzero[i] <- NA
       cluster_size[i] <- NA
-      n_facilities[i] <- NA
       has_minor_to_fixed[i] <- NA
       has_fixed_to_minor[i] <- NA
       has_split[i] <- NA
-      facility_type[i] <- NA
     }
   }
 }
 
 
 # How many clusters are there?
-n_clusters <- sum(!is.na(n_facilities))
+n_clusters <- sum(!is.na(cluster_size))
 print(n_clusters)
 
 # Mean/median size and IQR
