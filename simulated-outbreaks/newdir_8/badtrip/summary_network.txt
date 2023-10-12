@@ -1,0 +1,134 @@
+Hosts: HH1, HH2, HH3, HH5, HH4, HH13, HH9, HH6, HH7, HH8, HH10, HH11, HH12, 
+
+
+Probabilities of being root: HH1 0.978912319644839, HH2 0.0, HH3 0.0, HH5 0.0, HH4 0.0, HH13 0.0, HH9 0.0, HH6 0.0, HH7 0.0, HH8 0.0, HH10 0.0, HH11 0.0, HH12 0.021087680355160933, 
+
+
+Probabilities direct transmission: 
+
+From host HH1 to : 
+HH2 1.0, HH3 0.9811320754716981, HH5 1.0, HH9 0.9977802441731409, HH7 1.0, HH8 1.0, HH10 1.0, HH11 1.0, HH12 0.9689234184239733, 
+
+From host HH2 to : 
+
+
+From host HH3 to : 
+
+
+From host HH5 to : 
+HH4 1.0, HH13 1.0, HH12 0.0022197558268590455, 
+
+From host HH4 to : 
+
+
+From host HH13 to : 
+
+
+From host HH9 to : 
+HH6 1.0, HH12 0.004439511653718091, 
+
+From host HH6 to : 
+
+
+From host HH7 to : 
+
+
+From host HH8 to : 
+HH12 0.003329633740288568, 
+
+From host HH10 to : 
+
+
+From host HH11 to : 
+
+
+From host HH12 to : 
+HH1 0.021087680355160933, HH3 0.018867924528301886, HH9 0.0022197558268590455, 
+
+
+
+Probabilities indirect transmission: 
+From host HH1 to : 
+
+
+From host HH2 to : 
+
+
+From host HH3 to : 
+
+
+From host HH5 to : 
+
+
+From host HH4 to : 
+
+
+From host HH13 to : 
+
+
+From host HH9 to : 
+
+
+From host HH6 to : 
+
+
+From host HH7 to : 
+
+
+From host HH8 to : 
+
+
+From host HH10 to : 
+
+
+From host HH11 to : 
+
+
+From host HH12 to : 
+
+
+
+
+Probabilities of direct transmittor to each sampled host: 
+
+To host HH1 from : 
+HH12 0.021087680355160933, Unsampled 0.978912319644839, 
+
+To host HH2 from : 
+HH1 1.0, 
+
+To host HH3 from : 
+HH1 0.9811320754716981, HH12 0.018867924528301886, 
+
+To host HH5 from : 
+HH1 1.0, 
+
+To host HH4 from : 
+HH5 1.0, 
+
+To host HH13 from : 
+HH5 1.0, 
+
+To host HH9 from : 
+HH1 0.9977802441731409, HH12 0.0022197558268590455, 
+
+To host HH6 from : 
+HH9 1.0, 
+
+To host HH7 from : 
+HH1 1.0, 
+
+To host HH8 from : 
+HH1 1.0, 
+
+To host HH10 from : 
+HH1 1.0, 
+
+To host HH11 from : 
+HH1 1.0, 
+
+To host HH12 from : 
+HH1 0.9689234184239733, HH5 0.0022197558268590455, HH9 0.004439511653718091, HH8 0.003329633740288568, Unsampled 0.021087680355160933, 
+
+
+

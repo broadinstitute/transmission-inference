@@ -1,0 +1,161 @@
+Hosts: HH16, HH1, HH2, HH4, HH5, HH7, HH3, HH10, HH11, HH9, HH12, HH14, HH13, HH15, HH6, HH8, 
+
+
+Probabilities of being root: HH16 0.3751387347391787, HH1 0.6248612652608213, HH2 0.0, HH4 0.0, HH5 0.0, HH7 0.0, HH3 0.0, HH10 0.0, HH11 0.0, HH9 0.0, HH12 0.0, HH14 0.0, HH13 0.0, HH15 0.0, HH6 0.0, HH8 0.0, 
+
+
+Probabilities direct transmission: 
+
+From host HH16 to : 
+HH1 0.3751387347391787, HH6 0.19089900110987792, 
+
+From host HH1 to : 
+HH16 0.6248612652608213, HH2 0.9988901220865705, HH4 0.9977802441731409, HH5 1.0, HH7 1.0, HH3 1.0, HH15 0.0011098779134295228, HH6 0.802441731409545, 
+
+From host HH2 to : 
+
+
+From host HH4 to : 
+
+
+From host HH5 to : 
+
+
+From host HH7 to : 
+HH2 0.0011098779134295228, HH6 0.006659267480577136, 
+
+From host HH3 to : 
+HH4 0.0022197558268590455, HH10 0.9600443951165372, HH11 0.8057713651498335, HH9 0.9933407325194229, HH12 0.1564927857935627, HH14 0.6048834628190899, HH13 1.0, HH15 0.9678135405105438, HH8 0.9278579356270811, 
+
+From host HH10 to : 
+HH11 0.19422863485016648, 
+
+From host HH11 to : 
+HH10 0.03995560488346282, 
+
+From host HH9 to : 
+HH12 0.8435072142064373, HH14 0.3951165371809101, HH15 0.02774694783573807, 
+
+From host HH12 to : 
+
+
+From host HH14 to : 
+HH9 0.006659267480577136, HH15 0.003329633740288568, 
+
+From host HH13 to : 
+
+
+From host HH15 to : 
+
+
+From host HH6 to : 
+HH8 0.07214206437291898, 
+
+From host HH8 to : 
+
+
+
+
+Probabilities indirect transmission: 
+From host HH16 to : 
+
+
+From host HH1 to : 
+
+
+From host HH2 to : 
+
+
+From host HH4 to : 
+
+
+From host HH5 to : 
+
+
+From host HH7 to : 
+
+
+From host HH3 to : 
+
+
+From host HH10 to : 
+
+
+From host HH11 to : 
+
+
+From host HH9 to : 
+
+
+From host HH12 to : 
+
+
+From host HH14 to : 
+
+
+From host HH13 to : 
+
+
+From host HH15 to : 
+
+
+From host HH6 to : 
+
+
+From host HH8 to : 
+
+
+
+
+Probabilities of direct transmittor to each sampled host: 
+
+To host HH16 from : 
+HH1 0.6248612652608213, Unsampled 0.3751387347391787, 
+
+To host HH1 from : 
+HH16 0.3751387347391787, Unsampled 0.6248612652608213, 
+
+To host HH2 from : 
+HH1 0.9988901220865705, HH7 0.0011098779134295228, 
+
+To host HH4 from : 
+HH1 0.9977802441731409, HH3 0.0022197558268590455, 
+
+To host HH5 from : 
+HH1 1.0, 
+
+To host HH7 from : 
+HH1 1.0, 
+
+To host HH3 from : 
+HH1 1.0, 
+
+To host HH10 from : 
+HH3 0.9600443951165372, HH11 0.03995560488346282, 
+
+To host HH11 from : 
+HH3 0.8057713651498335, HH10 0.19422863485016648, 
+
+To host HH9 from : 
+HH3 0.9933407325194229, HH14 0.006659267480577136, 
+
+To host HH12 from : 
+HH3 0.1564927857935627, HH9 0.8435072142064373, 
+
+To host HH14 from : 
+HH3 0.6048834628190899, HH9 0.3951165371809101, 
+
+To host HH13 from : 
+HH3 1.0, 
+
+To host HH15 from : 
+HH1 0.0011098779134295228, HH3 0.9678135405105438, HH9 0.02774694783573807, HH14 0.003329633740288568, 
+
+To host HH6 from : 
+HH16 0.19089900110987792, HH1 0.802441731409545, HH7 0.006659267480577136, 
+
+To host HH8 from : 
+HH3 0.9278579356270811, HH6 0.07214206437291898, 
+
+
+

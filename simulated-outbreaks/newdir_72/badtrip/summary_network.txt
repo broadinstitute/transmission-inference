@@ -1,0 +1,143 @@
+Hosts: HH1, HH2, HH5, HH3, HH7, HH4, HH9, HH10, HH11, HH6, HH8, HH13, HH12, HH14, 
+
+
+Probabilities of being root: HH1 1.0, HH2 0.0, HH5 0.0, HH3 0.0, HH7 0.0, HH4 0.0, HH9 0.0, HH10 0.0, HH11 0.0, HH6 0.0, HH8 0.0, HH13 0.0, HH12 0.0, HH14 0.0, 
+
+
+Probabilities direct transmission: 
+
+From host HH1 to : 
+HH2 0.7369589345172031, HH5 1.0, HH4 0.3462819089900111, HH6 1.0, HH8 0.8956714761376249, HH13 0.37846836847946724, HH12 0.01553829078801332, 
+
+From host HH2 to : 
+
+
+From host HH5 to : 
+HH2 0.2630410654827969, HH3 1.0, HH7 1.0, HH4 0.6537180910099889, HH11 1.0, HH8 0.10432852386237514, HH13 0.6215316315205327, HH12 0.5749167591564928, HH14 0.5738068812430632, 
+
+From host HH3 to : 
+
+
+From host HH7 to : 
+
+
+From host HH4 to : 
+HH9 1.0, HH10 0.9667036625971143, 
+
+From host HH9 to : 
+HH10 0.033296337402885685, 
+
+From host HH10 to : 
+
+
+From host HH11 to : 
+
+
+From host HH6 to : 
+
+
+From host HH8 to : 
+
+
+From host HH13 to : 
+HH12 0.4095449500554939, HH14 0.4261931187569367, 
+
+From host HH12 to : 
+
+
+From host HH14 to : 
+
+
+
+
+Probabilities indirect transmission: 
+From host HH1 to : 
+
+
+From host HH2 to : 
+
+
+From host HH5 to : 
+
+
+From host HH3 to : 
+
+
+From host HH7 to : 
+
+
+From host HH4 to : 
+
+
+From host HH9 to : 
+
+
+From host HH10 to : 
+
+
+From host HH11 to : 
+
+
+From host HH6 to : 
+
+
+From host HH8 to : 
+
+
+From host HH13 to : 
+
+
+From host HH12 to : 
+
+
+From host HH14 to : 
+
+
+
+
+Probabilities of direct transmittor to each sampled host: 
+
+To host HH1 from : 
+Unsampled 1.0, 
+
+To host HH2 from : 
+HH1 0.7369589345172031, HH5 0.2630410654827969, 
+
+To host HH5 from : 
+HH1 1.0, 
+
+To host HH3 from : 
+HH5 1.0, 
+
+To host HH7 from : 
+HH5 1.0, 
+
+To host HH4 from : 
+HH1 0.3462819089900111, HH5 0.6537180910099889, 
+
+To host HH9 from : 
+HH4 1.0, 
+
+To host HH10 from : 
+HH4 0.9667036625971143, HH9 0.033296337402885685, 
+
+To host HH11 from : 
+HH5 1.0, 
+
+To host HH6 from : 
+HH1 1.0, 
+
+To host HH8 from : 
+HH1 0.8956714761376249, HH5 0.10432852386237514, 
+
+To host HH13 from : 
+HH1 0.37846836847946724, HH5 0.6215316315205327, 
+
+To host HH12 from : 
+HH1 0.01553829078801332, HH5 0.5749167591564928, HH13 0.4095449500554939, 
+
+To host HH14 from : 
+HH5 0.5738068812430632, HH13 0.4261931187569367, 
+
+
+

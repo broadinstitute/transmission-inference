@@ -1,0 +1,107 @@
+Hosts: HH1, HH7, HH2, HH3, HH8, HH4, HH9, HH5, HH6, HH10, 
+
+
+Probabilities of being root: HH1 0.7397260273972602, HH7 0.0, HH2 0.0, HH3 0.0, HH8 0.0, HH4 0.0, HH9 0.0, HH5 0.2602739726027397, HH6 0.0, HH10 0.0, 
+
+
+Probabilities direct transmission: 
+
+From host HH1 to : 
+HH7 0.9726027397260274, HH2 0.3287671232876712, HH8 0.4931506849315068, HH4 0.5342465753424658, HH9 0.4383561643835616, HH5 0.7397260273972602, HH6 1.0, 
+
+From host HH7 to : 
+HH2 0.3424657534246575, HH3 0.4246575342465753, HH8 0.4794520547945205, HH4 0.1643835616438356, HH9 0.2054794520547945, 
+
+From host HH2 to : 
+
+
+From host HH3 to : 
+
+
+From host HH8 to : 
+HH4 0.3013698630136986, HH9 0.3561643835616438, 
+
+From host HH4 to : 
+
+
+From host HH9 to : 
+HH8 0.0273972602739726, 
+
+From host HH5 to : 
+HH1 0.2602739726027397, HH7 0.0273972602739726, HH2 0.3287671232876712, HH3 0.5753424657534246, 
+
+From host HH6 to : 
+HH10 1.0, 
+
+From host HH10 to : 
+
+
+
+
+Probabilities indirect transmission: 
+From host HH1 to : 
+
+
+From host HH7 to : 
+
+
+From host HH2 to : 
+
+
+From host HH3 to : 
+
+
+From host HH8 to : 
+
+
+From host HH4 to : 
+
+
+From host HH9 to : 
+
+
+From host HH5 to : 
+
+
+From host HH6 to : 
+
+
+From host HH10 to : 
+
+
+
+
+Probabilities of direct transmittor to each sampled host: 
+
+To host HH1 from : 
+HH5 0.2602739726027397, Unsampled 0.7397260273972602, 
+
+To host HH7 from : 
+HH1 0.9726027397260274, HH5 0.0273972602739726, 
+
+To host HH2 from : 
+HH1 0.3287671232876712, HH7 0.3424657534246575, HH5 0.3287671232876712, 
+
+To host HH3 from : 
+HH7 0.4246575342465753, HH5 0.5753424657534246, 
+
+To host HH8 from : 
+HH1 0.4931506849315068, HH7 0.4794520547945205, HH9 0.0273972602739726, 
+
+To host HH4 from : 
+HH1 0.5342465753424658, HH7 0.1643835616438356, HH8 0.3013698630136986, 
+
+To host HH9 from : 
+HH1 0.4383561643835616, HH7 0.2054794520547945, HH8 0.3561643835616438, 
+
+To host HH5 from : 
+HH1 0.7397260273972602, Unsampled 0.2602739726027397, 
+
+To host HH6 from : 
+HH1 1.0, 
+
+To host HH10 from : 
+HH6 1.0, 
+
+
+

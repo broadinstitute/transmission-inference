@@ -1,0 +1,24 @@
+<itsabeastystatewerein version='2.0' sample='100000'>
+<statenode id='tree'>((((HH4:5.751990727342815,(HH8:0.8913912890530256,HH2:8.324030614620511,HH11:10.957171756259738,HH13:14.617501411966476)HH3:5.8259861889573585)HH14:2.1752832870711245,HH6:15.51926319360394)HH1:0.1475938720303418,((HH10:1.6910763511325353)HH12:10.788618978048856)HH9:7.42486408872001)HH5:3.201299965999141,HH15:18.774306041811215)HH7:0.0</statenode>
+<statenode id='PoMo.bottleneck'>PoMo.bottleneck[1 1] (-Infinity,10000.0): 821.4606768323448 </statenode>
+<statenode id='mutationRate'>mutationRate[1 1] (0.0,Infinity): 0.00100759700767889 </statenode>
+<statenode id='PoMo.fitness'>PoMo.fitness[4 1] (0.8,1.2): 1.0 1.0 1.0 1.0 </statenode>
+<statenode id='PoMo.mutRates'>PoMo.mutRates[2 1] (0.0,0.3): 2.0612105609759806E-4 1.5266757219694322E-4 </statenode>
+<statenode id='PoMo.seqError'>PoMo.seqError[1 1] (-Infinity,Infinity): 0.0 </statenode>
+<statenode id='PoMo.nucFreqs'>PoMo.nucFreqs[4 1] (0.0,Infinity): 0.24142888370463786 0.24615887835999745 0.25895927334794583 0.25345296458741884 </statenode>
+<statenode id='PoMo.rootFreqs'>PoMo.rootFreqs[4 1] (-Infinity,Infinity): 0.25 0.25 0.25 0.25 </statenode>
+</itsabeastystatewerein>
+<!--
+{"operators":[
+{"id":"mutScaler","p":0.9500000000000001,"accept":1586,"reject":183,"acceptFC":0,"rejectFC":0,"rejectIv":0,"rejectOp":0},
+{"id":"muRateScaler","p":0.9500000000000001,"accept":1715,"reject":178,"acceptFC":0,"rejectFC":0,"rejectIv":0,"rejectOp":0},
+{"id":"bottleneckScaler","p":0.8999999999999999,"accept":1584,"reject":263,"acceptFC":0,"rejectFC":0,"rejectIv":0,"rejectOp":0},
+{"id":"RelativeScaler","p":0.9500000000000001,"accept":1613,"reject":253,"acceptFC":0,"rejectFC":0,"rejectIv":0,"rejectOp":0},
+{"id":"unknown","p":"NaN","accept":9000,"reject":9445,"acceptFC":0,"rejectFC":0,"rejectIv":0,"rejectOp":0},
+{"id":"unknown","p":"NaN","accept":6700,"reject":11759,"acceptFC":0,"rejectFC":0,"rejectIv":0,"rejectOp":0},
+{"id":"unknown","p":"NaN","accept":3026,"reject":15406,"acceptFC":0,"rejectFC":0,"rejectIv":0,"rejectOp":0},
+{"id":"unknown","p":"NaN","accept":2839,"reject":15721,"acceptFC":0,"rejectFC":0,"rejectIv":6764,"rejectOp":6764},
+{"id":"unknown","p":"NaN","accept":4131,"reject":14429,"acceptFC":0,"rejectFC":0,"rejectIv":2498,"rejectOp":2498},
+{"id":"freqExchanger","p":0.010000000000000004,"accept":51,"reject":119,"acceptFC":0,"rejectFC":0,"rejectIv":0,"rejectOp":0}
+]}
+-->
