@@ -20,7 +20,7 @@
 # OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 # SOFTWARE.
 
-### Show that we don't need to deal with mutations going from template to new virions
+#### Show that we don't need to deal with mutations going from template to new virions
 library(ggplot2)
 library(reshape2)
 
