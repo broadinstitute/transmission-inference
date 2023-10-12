@@ -1,0 +1,4 @@
+"","From","To","Probability","Distance","Relationship"
+"1","USA-MA-CDCBI-CRSP_6YEJSHMHYNGCRT2D-2021","USA-MA-CDCBI-CRSP_5OQ74CFCRYAX5IX7-2021",1,0,"Split Bottleneck"
+"2","Index","USA-MA-CDCBI-CRSP_KI3GIYU7O7JDSOTX-2021",1,NA,"Index Case"
+"3","Index","USA-MA-CDCBI-CRSP_6YEJSHMHYNGCRT2D-2021",1,NA,"Index Case"

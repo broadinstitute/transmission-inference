@@ -1,0 +1,4 @@
+"","From","To","Probability","Distance","Relationship"
+"1","Index","USA-MA-CDCBI-CRSP_QFW7RVON5UHTLYDT-2021",1,NA,"Index Case"
+"2","Index","USA-MA-CDCBI-CRSP_UCONKQ5YJ3LKGQL4-2021",1,NA,"Index Case"
+"3","USA-MA-CDCBI-CRSP_UCONKQ5YJ3LKGQL4-2021","USA-MA-CDCBI-CRSP_XJILLESJM765SNHN-2021",1,1,"Undetected Consensus Change"

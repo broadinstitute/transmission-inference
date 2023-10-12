@@ -1,0 +1,5 @@
+"","From","To","Probability","Distance","Relationship"
+"1","Index","USA-MA-Broad-CRSP_DZYDERWYGEDB4F24-2022",0.481481481481481,NA,"Index Case"
+"2","USA-MA-Broad-CRSP_A42ABZAU6DLV6WKW-2022","USA-MA-Broad-CRSP_DZYDERWYGEDB4F24-2022",0.518518518518518,2,"Fixation to Minor Allele"
+"3","Index","USA-MA-Broad-CRSP_BAIALRCS5FHU6GXE-2022",1,NA,"Index Case"
+"4","USA-MA-Broad-CRSP_BAIALRCS5FHU6GXE-2022","USA-MA-Broad-CRSP_A42ABZAU6DLV6WKW-2022",1,1,"Undetected Consensus Change"

@@ -1,0 +1,5 @@
+"","From","To","Probability","Distance","Relationship"
+"1","Index","USA-MA-Broad-CRSP_BCWZHFDJMYJPTNLH-2022",1,NA,"Index Case"
+"2","Index","USA-MA-Broad-CRSP_HDQWIX7AXMKHMY2I-2022",0.962962962962963,NA,"Index Case"
+"3","USA-MA-Broad-CRSP_BCWZHFDJMYJPTNLH-2022","USA-MA-Broad-CRSP_HDQWIX7AXMKHMY2I-2022",0.037037037037037,2,"Undetected Consensus Change"
+"4","USA-MA-Broad-CRSP_HDQWIX7AXMKHMY2I-2022","USA-MA-Broad-CRSP_AI7RLST4E2JZPQMW-2022",1,1,"Undetected Consensus Change"

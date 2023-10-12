@@ -1,0 +1,4 @@
+"","From","To","Probability","Distance","Relationship"
+"1","Index","USA-MA-CDCBI-CRSP_VAZUMOILB5TIEP2P-2022",1,NA,"Index Case"
+"2","Index","USA-MA-CDCBI-CRSP_FS7BABADESWMC3KM-2022",1,NA,"Index Case"
+"3","USA-MA-CDCBI-CRSP_VAZUMOILB5TIEP2P-2022","USA-MA-CDCBI-CRSP_LTA6WNF4B4HQQO2G-2022",1,1,"Undetected Consensus Change"
